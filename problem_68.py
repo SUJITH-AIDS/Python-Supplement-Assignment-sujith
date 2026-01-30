@@ -1,5 +1,5 @@
 # Problem 68: Find sum of even indexed elements
-# Find and fix the error
+# Find and fix the error 
 
 def sum_even_indices(lst):
     total = 0
