@@ -2,7 +2,7 @@
 # Find and fix the error
 
 def is_palindrome_number(n):
-    original = n
+    original = n 
     reversed_num = 0
     while n > 0:
         digit = n % 10
