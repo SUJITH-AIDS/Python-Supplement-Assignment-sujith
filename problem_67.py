@@ -1,4 +1,4 @@
-# Problem 67: Remove nth element from list
+# Problem 67: Remove nth element from list 
 # Find and fix the error
 
 def remove_nth(lst, n):
