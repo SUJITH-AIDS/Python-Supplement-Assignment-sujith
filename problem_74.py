@@ -1,4 +1,4 @@
-# Problem 74: Find first non-repeating character
+# Problem 74: Find first non-repeating character 
 # Find and fix the error
 
 def first_non_repeating(text):
