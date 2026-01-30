@@ -1,4 +1,4 @@
-# Problem 21: Check if list is sorted
+# Problem 21: Check if list is sorted 
 # Find and fix the error
 
 def is_sorted(lst):
