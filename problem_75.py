@@ -1,5 +1,5 @@
 # Problem 75: Check if parentheses are balanced
-# Find and fix the error
+# Find and fix the error 
 
 def are_balanced(expression):
     stack = []
