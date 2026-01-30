@@ -1,4 +1,4 @@
-# Problem 57: Find LCM of two numbers
+# Problem 57: Find LCM of two numbers 
 # Find and fix the error
 
 def gcd(a, b):
