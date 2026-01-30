@@ -1,5 +1,5 @@
 # Problem 65: Check if list has duplicates
-# Find and fix the error
+# Find and fix the error 
 
 def has_duplicates(lst):
     seen = []
