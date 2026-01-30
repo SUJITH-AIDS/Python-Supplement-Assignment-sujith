@@ -1,4 +1,4 @@
-# Problem 17: Capitalize first letter of each word
+# Problem 17: Capitalize first letter of each word 
 # Find and fix the error
 
 def capitalize_words(text):
