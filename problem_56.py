@@ -1,4 +1,4 @@
-# Problem 56: Remove vowels from string
+# Problem 56: Remove vowels from string 
 # Find and fix the error
 
 def remove_vowels(text):
