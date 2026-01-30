@@ -1,5 +1,5 @@
 # Problem 88: Find all substrings of a string
-# Find and fix the error
+# Find and fix the error 
 
 def all_substrings(text):
     substrings = []
