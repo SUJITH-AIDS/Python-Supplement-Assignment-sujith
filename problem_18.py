@@ -1,4 +1,4 @@
-# Problem 18: Count words in a sentence
+# Problem 18: Count words in a sentence 
 # Find and fix the error
 
 sentence = "Python is a great programming language"
