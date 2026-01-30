@@ -1,4 +1,4 @@
-# Problem 19: Calculate power of a number
+# Problem 19: Calculate power of a number 
 # Find and fix the error
 
 def power(base, exponent):
