@@ -1,4 +1,4 @@
-# Problem 78: Find duplicate elements in list
+# Problem 78: Find duplicate elements in list 
 # Find and fix the error
 
 def find_duplicates(lst):
