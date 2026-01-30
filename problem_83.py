@@ -2,7 +2,7 @@
 # Find and fix the error
 
 def kth_smallest(arr, k):
-    sorted_arr = sorted(arr)
+    sorted_arr = sorted(arr) 
     return sorted_arr[k]
 
 numbers = [7, 10, 4, 3, 20, 15]
