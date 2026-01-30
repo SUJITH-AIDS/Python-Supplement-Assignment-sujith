@@ -1,4 +1,4 @@
-# Problem 79: Calculate compound interest
+# Problem 79: Calculate compound interest 
 # Find and fix the error
 
 def compound_interest(principal, rate, time, n):
