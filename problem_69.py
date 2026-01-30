@@ -1,5 +1,5 @@
 # Problem 69: Convert temperature Fahrenheit to Celsius
-# Find and fix the error
+# Find and fix the error 
 
 def fahrenheit_to_celsius(fahrenheit):
     celsius = (fahrenheit - 32) * 5/9
