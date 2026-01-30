@@ -1,4 +1,4 @@
-# Problem 60: Check if number is Armstrong number
+# Problem 60: Check if number is Armstrong number 
 # Find and fix the error
 
 def is_armstrong(n):
