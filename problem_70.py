@@ -1,4 +1,4 @@
-# Problem 70: Find all prime numbers up to n
+# Problem 70: Find all prime numbers up to n 
 # Find and fix the error
 
 def find_primes(n):
