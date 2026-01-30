@@ -1,4 +1,4 @@
-# Problem 27: Create a list of squares
+# Problem 27: Create a list of squares 
 # Find and fix the error
 
 squares = []
