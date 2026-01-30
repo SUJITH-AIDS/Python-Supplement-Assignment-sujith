@@ -1,5 +1,5 @@
 # Problem 7: Calculate factorial of a number
-# Find and fix the error
+# Find and fix the error 
 
 def factorial(n):
     result = 1
