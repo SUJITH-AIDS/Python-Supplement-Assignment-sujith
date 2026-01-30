@@ -1,4 +1,4 @@
-# Problem 2: Calculate the sum of numbers from 1 to 100
+# Problem 2: Calculate the sum of numbers from 1 to 100 
 # Find and fix the error
 
 total = 0
