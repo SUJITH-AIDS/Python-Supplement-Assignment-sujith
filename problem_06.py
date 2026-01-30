@@ -1,5 +1,5 @@
 # Problem 6: Reverse a string
-# Find and fix the error
+# Find and fix the error 
 
 text = "Python"
 reversed_text = ""
