@@ -1,5 +1,5 @@
 # Problem 87: Generate Pascal's triangle
-# Find and fix the error
+# Find and fix the error 
 
 def pascals_triangle(n):
     triangle = []
