@@ -1,4 +1,4 @@
-# Problem 35: Calculate percentage
+# Problem 35: Calculate percentage 
 # Find and fix the error
 
 def calculate_percentage(obtained, total):
