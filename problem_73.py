@@ -1,5 +1,5 @@
 # Problem 73: Find maximum difference between elements
-# Find and fix the error
+# Find and fix the error 
 
 def max_difference(arr):
     if len(arr) < 2:
